@@ -24,7 +24,7 @@ To set up Minecraft Status Bot on your own Discord server, follow these steps:
 ### 1️⃣ Clone the Repository  
 Clone the repository to your local machine using the following command:  
 ```sh
-git clone https://github.com/KaloudasDev/Minecraft-Status-Bot
+git clone https://github.com/KaloudasDev/MCStatus-Bot
 ```
 
 ### 2️⃣ Install Dependencies  
