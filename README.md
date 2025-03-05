@@ -63,4 +63,4 @@ Go to the [Discord Developer Portal](https://discord.com/developers/applications
 ## 🔗 Contact Links:  
 - **Developer's Discord Profile:** [Kaloudas](https://discordlookup.com/user/1069279857072160921)  
 - **NobleCraft Studios:** [Join Discord](https://discord.gg/noblecraft)  
-- **Developer's Email:** [kaloudasdev@gmail.com](mailto:kaloudasdev@example.com)
+- **Developer's Email:** [kaloudasdev@gmail.com](mailto:kaloudasdev@gmail.com)
